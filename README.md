@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Util Discord Bot
+<!-- - 🔭 I’m currently working on -->
 
-- 🌱 I’m currently learning Python and Web Development 
+- 🌱 I’m currently learning Python and Qt 
 
-- 👯 I’m looking to collaborate on projects, tech articles... 
+- 👯 I’m looking to collaborate on projects and tech articles... 
 
 - 💬 Talk to me about Python, Freelancing Opportunites, Open Source... 
 
@@ -38,7 +38,7 @@
 <a href = 'https://michalbus.tk'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/AlkiDEV'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-  <!-- 
+  <!--
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
